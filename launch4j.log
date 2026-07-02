@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\USER\Music\proyecto\out\artifacts\proyecto_jar\Bone.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\USER\Music\proyecto\out\artifacts\proyecto_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.021.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot\
+Substitute:	PATH = C:\Python314\Scripts\;C:\Python314\;C:\Program Files\apache-maven-3.9.16\bin;C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\apache-maven-3.9.16\bin;C:\Users\USER\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\USER\AppData\Local\Programs\Python\Python313\;C:\Users\USER\AppData\Local\Microsoft\WindowsApps;C:\Users\USER\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\apache-maven-3.9.16\bin;C:\Program Files\apache-maven-3.9.16\bin;C:\Users\USER\AppData\Roaming\npm;C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot\;C:\Python314\Scripts\;C:\Python314\;C:\Program Files\apache-maven-3.9.16\bin;C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\apache-maven-3.9.16\bin;C:\Users\USER\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\USER\AppData\Local\Programs\Python\Python313\;C:\Users\USER\AppData\Local\Microsoft\WindowsApps;C:\Users\USER\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\apache-maven-3.9.16\bin;C:\Program Files\apache-maven-3.9.16\bin;C:\Users\USER\AppData\Roaming\npm;C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_011 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\USER\Music\proyecto\out\artifacts\proyecto_jar\Bone.exe"
+Args length:	71/32768 chars
+Exit code:	0
